@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C60F2B1C-790E-4432-A719-52182A333ADE}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MonkeyFinder PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonkeyFinder/ViewModel/MonkeysViewModel.cs">
+    <Files>
+      <File FileName="MonkeyFinder/App.xaml" Line="1" Column="1" />
+      <File FileName="MonkeyFinder/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="MonkeyFinder/ViewModel/MonkeyDetailsViewModel.cs" Line="1" Column="1" />
+      <File FileName="MonkeyFinder/ViewModel/MonkeysViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MonkeyFinder" expanded="True">
+            <Node name="MonkeyFinder" expanded="True">
+              <Node name="ViewModel" expanded="True">
+                <Node name="MonkeysViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
