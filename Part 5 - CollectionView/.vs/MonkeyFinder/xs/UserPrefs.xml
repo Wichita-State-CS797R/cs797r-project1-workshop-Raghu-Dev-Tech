@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C60F2B1C-790E-4432-A719-52182A333ADE}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MonkeyFinder PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonkeyFinder/View/MainPage.xaml">
+    <Files>
+      <File FileName="MonkeyFinder/View/MainPage.xaml" Line="10" Column="32" />
+      <File FileName="MonkeyFinder/ViewModel/MonkeysViewModel.cs" Line="21" Column="19" />
+      <File FileName="MonkeyFinder/View/DetailsPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MonkeyFinder" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
